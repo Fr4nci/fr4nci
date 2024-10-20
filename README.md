@@ -1,12 +1,9 @@
 # Fr4nci
+Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the University of Pisa.
 
-Hi :wave: , 
-i'm Francesco Sermi, an undergraduate Physics student currently studying at Pisa.
-* :closed_book: you can find the notes of the courses I took/am currently atteding which of them I had time to rewrite in LaTeX
-* :file_folder: some little project I have worked on (some may be still a subject of my interest) regarding Physics or Computational Mathematics
-* :hurtrealbad: if you find some errors (especially in the notes), please let me know by writing at francesco291104@gmail.com
-
-
+* :books: Here you'll find my course notes, rewritten in LaTeX whenever I get the chance. Feel free to explore!
+* :hammer_and_wrench: I also share some small projects I've worked on, mostly related to Physics and Computational Mathematics. Some of these are still ongoing interests of mine.
+* :memo: If you spot any errors (especially in the notes), I'd greatly appreciate your feedback! You can reach me at francesco291104@gmail.com.
 <table>
   <tr>
     <td>
