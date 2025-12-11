@@ -8,16 +8,7 @@ Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the Un
   <tr>
     <td>
       <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api?username=fr4nci&show_icons=true&rank_icon=github&card_width=150&theme=discord_old_blurple#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark"/>
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api?username=fr4nci&show_icons=true&rank_icon=github&card_width=150&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats-Light"/>
-        </a>
-        <br>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nci&layout=compact&card_width=435&theme=discord_old_blurple" alt="Top Langs"/>
-        </a>
+       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4nci)](https://github.com/anuraghazra/github-readme-stats)
       </div>
     </td>
     <td>
