@@ -8,7 +8,7 @@ Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the Un
   <tr>
     <td>
       <div>
-       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4nci)](https://github.com/anuraghazra/github-readme-stats)
+       <img src="https://github.com/Fr4nci/BlackHoles/blob/main/blackhole_final.png" />
       </div>
     </td>
     <td>
