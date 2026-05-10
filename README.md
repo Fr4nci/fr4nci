@@ -8,7 +8,7 @@ Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the Un
   <tr>
     <td>
       <div>
-       <img src="https://github.com/Fr4nci/BlackHoles/blob/main/blackhole_final.png" alt="Black Hole" width="400" />
+       <img src="https://github.com/Fr4nci/BlackHoles/blob/main/3D%20Black%20Hole%20(without%20GPU)/3d_smooth_blackhole.png" alt="Black Hole" width="400" />
       </div>
     </td>
     <td>
