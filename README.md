@@ -12,7 +12,7 @@ Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the Un
       </div>
     </td>
     <td>
-      <img src="https://github.com/Fr4nci/frattali/blob/main/Immagini%20varie%20generate/immagine_zoom_burning_ship.png?raw=true" alt="Fractal Image" width="400"/>
+      <video src="https://github.com/Fr4nci/BlackHoles/blob/main/Python_implementation/3D%20Black%20Hole%20(without%20GPU)/3d_smooth_blackhole.png" autoplay />
     </td>
   </tr>
 </table>
