@@ -5,6 +5,7 @@ Hi there 👋, I’m Francesco Sermi, an undergraduate Physics student at the Un
 * :hammer_and_wrench: I also share some small projects I've worked on, mostly related to Physics and Computational Mathematics. Some of these are still ongoing interests of mine.
 * :memo: If you spot any errors (especially in the notes), I'd greatly appreciate your feedback! You can reach me at francesco291104@gmail.com.
 
+## 📸 Some of my favourite photos and videos I have created from my projects
 <table>
   <tr>
     <td>
